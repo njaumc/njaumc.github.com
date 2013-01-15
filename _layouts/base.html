@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	{% for stylesheet in site.css %}
+    <link rel="stylesheet" href="{{ stylesheet }}" />            
+    {% endfor %}
+    <title>{{page.title}}</title>
+</head>
+<body>
+
+	{{content}}
+	{% for script in site.js %}
+	<script src="{{ script }}" type="text/javascript"></script>
+	{% endfor %}
+</body>
+<footer>
+	<div class="navbar navbar-fixed-bottom">
+		<div class="navbar-inner">
+			<ul class="nav">
+				<li> Contact<a href="mailto:directors@juniorhighcamp.org">The Directors</a></li>
+			</ul>
+		</div>
+	</div>
+</footer>
+</html>
