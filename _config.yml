@@ -31,3 +31,8 @@ js:
 #
 production_url: http://njaumc.github.com
 baseurl: /
+
+director_desc:
+  darrell: /contents/Darrell_description.md
+director_pic: 
+  darrell: /assets/img/Darrell.jpeg
