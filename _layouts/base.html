@@ -13,6 +13,7 @@
 		  <div class="navbar-inner">
 		    <a class="brand" href="/">NJAUMC</a>
 		    <ul class="nav">
+		      <li><a href="{{site.about}}">About</a></li>
 		      <li><a href="{{site.junior_high_camp}}">Junior High Camp</a></li>
 		      <li><a href="{{site.asian_camp}}">Asian Camp</a></li>
 		      <li><a href="{{site.alpha_omega}}">Alpha Omega</a></li>
@@ -20,14 +21,15 @@
 		  </div>
 		</div>
 		{{content}}
-	</div>
-	{% for script in site.js %}
-		<script src="{{ script }}" type="text/javascript"></script>
-	{% endfor %}
+	
 
 	<footer class="footer">
 		Created by <a href="//www.colinichang.com">Colin Chang</a>. © Copyright {{site.time | date_to_string | split:" " | last}} 
 	</footer>
+	</div>
+	{% for script in site.js %}
+		<script src="{{ script }}" type="text/javascript"></script>
+	{% endfor %}
 </body>
 
 </html>
