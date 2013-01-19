@@ -8,15 +8,26 @@
     <title>{{page.title}}</title>
 </head>
 <body>
-	{{content}}
+	<div class="container">
+		<div class="navbar">
+		  <div class="navbar-inner">
+		    <a class="brand" href="/">NJAUMC</a>
+		    <ul class="nav">
+		      <li><a href="{{site.junior_high_camp}}">Junior High Camp</a></li>
+		      <li><a href="{{site.asian_camp}}">Asian Camp</a></li>
+		      <li><a href="{{site.alpha_omega}}">Alpha Omega</a></li>
+		    </ul>
+		  </div>
+		</div>
+		{{content}}
+	</div>
 	{% for script in site.js %}
 		<script src="{{ script }}" type="text/javascript"></script>
 	{% endfor %}
 
-</body>
-<footer>
-	<div class="navbar navbar-fixed-bottom">
+	<footer class="footer">
 		Created by <a href="//www.colinichang.com">Colin Chang</a>. © Copyright {{site.time | date_to_string | split:" " | last}} 
-	</div>
-</footer>
+	</footer>
+</body>
+
 </html>
