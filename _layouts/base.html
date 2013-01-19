@@ -21,14 +21,15 @@
 		  </div>
 		</div>
 		{{content}}
-	</div>
-	{% for script in site.js %}
-		<script src="{{ script }}" type="text/javascript"></script>
-	{% endfor %}
+	
 
 	<footer class="footer">
 		Created by <a href="//www.colinichang.com">Colin Chang</a>. © Copyright {{site.time | date_to_string | split:" " | last}} 
 	</footer>
+	</div>
+	{% for script in site.js %}
+		<script src="{{ script }}" type="text/javascript"></script>
+	{% endfor %}
 </body>
 
 </html>
