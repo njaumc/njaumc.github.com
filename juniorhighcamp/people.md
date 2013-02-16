@@ -76,7 +76,7 @@ The directors of JHC are primary examples of leadership, servanthood, and devoti
         <li> Hobbies: Wrestling and football</li>
     </ul>
     <p>
-     Ryan Fong grew up hearing stories about JHC from his three older siblings and always had a huge desire to find out why everybody loved JHC. JHC has been the biggest staple for Ryan’s faith journey and he looks forward to further growing his walk with God with another step in a new direction at JHC. 
+     I’m Justin Jue, and I hail from Aldersgate UMC in Palo Alto CA. I loved going to JHC as a camper and I loved being a counselor too, and I am really excited to be a Director this year! I’m an Eagle Scout and I was on the varsity wrestling team for two years at my high school!
     </p>
     </div>
   </div>
