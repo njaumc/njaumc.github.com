@@ -35,7 +35,10 @@ baseurl: /
 director_desc:
   darrell: /contents/Darrell_description.md
 director_pic: 
-  darrell: /assets/img/Darrell.jpeg
+  darrell: /assets/img/juniorhighcamp/People_Darrell.jpeg
+  justin: /assets/img/juniorhighcamp/People_Justin.jpg
+  darin: /assets/img/juniorhighcamp/People_Darin.jpg
+  ryan: /assets/img/juniorhighcamp/People_Ryan.png
 
 counselor_app: /assets/docs/CounselorApplication2013.pdf
 
@@ -45,3 +48,9 @@ alpha_omega: /alphaomega
 about: /about.html
 
 asian_camp_counselor_app: /assets/docs/AC2013CounselorApp.pdf
+junior_high_camp_img:
+  index: ""
+asian_camp_img:
+  index: /assets/img/asiancamp/42445-superhero.jpg
+alpha_omega_img:
+  index: /assets/img/alphaomega/sky.jpg
