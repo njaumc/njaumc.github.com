@@ -25,24 +25,67 @@ The directors of JHC are primary examples of leadership, servanthood, and devoti
   </div>
 </div>
 
-###Justin Jue <small>Aldersgate UMC, Palo Alto, CA</small>
-- First year at JHC: ?
-- Hobbies: Wrestling and football
-- Currently Pursuing: ?
-- Justin is as awesome as Darin.
- 
+<div class="media">
+  <a class="pull-left" >
+    <img class="media-object img-rounded" width="186px" height="170px" data-src="holder.js/64x64" src="{{site.director_pic['darin']}}" >
+  </a>
+  <div class="media-body">
+    <h3 class="media-heading">Darin Chun <small> Faith United Methodist Church, Torrance, CA</small></h3>
+    <div class="media">
+      <ul>
+        <li> "Who is wise and understanding among you? Let them show it by their good life, by deeds done in the humility that comes from wisdom" James 3:13</li>
+        <li>Hobbies: Tuba, basketball, golf, drums, beating USC</li>
+        <li> Favorite Animal: Narwhal</li>
+        <li> UCLA Class of 2015-Studying neuroscience</li>
+    </ul>
+    <p>
+      Darin has been a part of JHC for five years: two as a camper and three as a counselor. His favorite thing about JHC is that he gets to spend a week surrounded by so many inspiring people simply because they all share the love of God. He is blessed to be able to give back to a camp that nurtures campers' and counselors' faith through fellowship and praise.
+    </p>
+    </div>
+  </div>
+</div>
 
-###Darin Chun <small> Faith United Methodist Church, Torrance, CA</small>
-- First year at JHC: ?
-- Hobbies: Band and Awesomeness
-- Currently Pursuing: Optometry or Opthamalogy
-- Darin is an amazing person.
- 
+<div class="media">
+  <a class="pull-left" >
+    <img class="media-object img-rounded" width="186px" height="170px" data-src="holder.js/64x64" src="{{site.director_pic['ryan']}}" >
+  </a>
+  <div class="media-body">
+    <h3 class="media-heading">Ryan Fong <small> Faith United Methodist Church, Torrance, CA</small></h3>
+    <div class="media">
+      <ul>
+        <li>" My attitude is that if you push me towards something that you think is a weakness, then I will turn that perceived weakness into a strength."- Michael Jordan</li>
+      <li> Random Fact: I have collected over 130 decks of playing cards.</li>
+<li> Attended JHC for the first time in 2004</li>
+    </ul>
+    <p>
+     Ryan Fong grew up hearing stories about JHC from his three older siblings and always had a huge desire to find out why everybody loved JHC. JHC has been the biggest staple for Ryan’s faith journey and he looks forward to further growing his walk with God with another step in a new direction at JHC. 
+    </p>
+    </div>
+  </div>
+</div>
 
-###Ryan Fong <small> Faith United Methodist Church, Torrance, CA</small>
-- First year at JHC: ?
-- Hobbies: Basketball, and online games that take way too much of my time
-- Currently Pursuing: ?
-- Ryan is as awesome as Darin and Justin.
+<div class="media">
+  <a class="pull-left" >
+    <img class="media-object img-rounded" width="186px" height="170px" data-src="holder.js/64x64" src="{{site.director_pic['justin']}}" >
+  </a>
+  <div class="media-body">
+    <h3 class="media-heading">Justin Jue <small> Aldersgate UMC, Palo Alto CA</small></h3>
+    <div class="media">
+      <ul>
+        <li> School: University of Redlands, Major: Liberal Studies and Mathematics</li>
+        <li> Hobbies: Wrestling and football</li>
+    </ul>
+    <p>
+     Ryan Fong grew up hearing stories about JHC from his three older siblings and always had a huge desire to find out why everybody loved JHC. JHC has been the biggest staple for Ryan’s faith journey and he looks forward to further growing his walk with God with another step in a new direction at JHC. 
+    </p>
+    </div>
+  </div>
+</div>
+
+###Kirk Inouye <small>Wesley UMC, San Jose CA</small>
+
+
+
+
 
 
