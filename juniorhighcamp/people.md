@@ -72,11 +72,14 @@ The directors of JHC are primary examples of leadership, servanthood, and devoti
     <h3 class="media-heading">Justin Jue <small> Aldersgate UMC, Palo Alto CA</small></h3>
     <div class="media">
       <ul>
-        <li> School: University of Redlands, Major: Liberal Studies and Mathematics</li>
-        <li> Hobbies: Wrestling and football</li>
+        <li>A thousand days of diligent study is one day with a great teacher. A Japanese proverb.</li>
+        <li>First Year of JHC: 2006 Elf!</li>
+        <li>Hobbies: TV, Sports, School, and JHC.</li>
+        <li>School: University of Redlands Majoring in Liberal Studies and Mathematics.</li>
+        <li>Random Fact: I typically wear two different pairs of socks everyday.</li>
     </ul>
     <p>
-     I’m Justin Jue, and I hail from Aldersgate UMC in Palo Alto CA. I loved going to JHC as a camper and I loved being a counselor too, and I am really excited to be a Director this year! I’m an Eagle Scout and I was on the varsity wrestling team for two years at my high school!
+     Justin Jue is known for his ability to eat copious amounts of food, and his endless energy. He attends Aldersgate United Methodist Church where a few of the older youth encouraged him to go to his first year of Junior High Camp in 2006. In later years he drifted away from the church, but during his junior year of high school, Jayme Nakamura and Colin Chang told him he should apply to be Junior High Camp counselor. Junior High Camp is where Justin Jue first connected with God, and since then he has not regretted going to Junior High Camp as a camper and a counselor, and now as a Director.  
     </p>
     </div>
   </div>
