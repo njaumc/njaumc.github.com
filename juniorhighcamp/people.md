@@ -7,7 +7,7 @@ The directors of JHC are primary examples of leadership, servanthood, and devoti
 
 <div class="media">
   <a class="pull-left" >
-    <img class="media-object img-rounded" data-src="holder.js/64x64" src="{{site.director_pic['darrell']}}" >
+    <img class="media-object img-rounded profile-picture"  src="{{site.director_pic['darrell']}}" >
   </a>
   <div class="media-body">
     <h3 class="media-heading">Darrell Mark <small>Faith United Methodist Church, Torrance, CA</small></h3>
@@ -27,7 +27,7 @@ The directors of JHC are primary examples of leadership, servanthood, and devoti
 
 <div class="media">
   <a class="pull-left" >
-    <img class="media-object img-rounded" width="186px" height="170px" data-src="holder.js/64x64" src="{{site.director_pic['darin']}}" >
+    <img class="media-object img-rounded profile-picture"  src="{{site.director_pic['darin']}}" >
   </a>
   <div class="media-body">
     <h3 class="media-heading">Darin Chun <small> Faith United Methodist Church, Torrance, CA</small></h3>
@@ -47,7 +47,7 @@ The directors of JHC are primary examples of leadership, servanthood, and devoti
 
 <div class="media">
   <a class="pull-left" >
-    <img class="media-object img-rounded" width="186px" height="170px" data-src="holder.js/64x64" src="{{site.director_pic['ryan']}}" >
+    <img class="media-object img-rounded profile-picture" src="{{site.director_pic['ryan']}}" >
   </a>
   <div class="media-body">
     <h3 class="media-heading">Ryan Fong <small> Faith United Methodist Church, Torrance, CA</small></h3>
@@ -66,7 +66,7 @@ The directors of JHC are primary examples of leadership, servanthood, and devoti
 
 <div class="media">
   <a class="pull-left" >
-    <img class="media-object img-rounded" width="186px" height="170px" data-src="holder.js/64x64" src="{{site.director_pic['justin']}}" >
+    <img class="media-object img-rounded profile-picture" src="{{site.director_pic['justin']}}" >
   </a>
   <div class="media-body">
     <h3 class="media-heading">Justin Jue <small> Aldersgate UMC, Palo Alto CA</small></h3>
