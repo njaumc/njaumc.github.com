@@ -49,7 +49,7 @@ about: /about.html
 
 asian_camp_counselor_app: /assets/docs/AC2013CounselorApp.pdf
 junior_high_camp_img:
-  index: ""
+  index: "/assets/img/juniorhighcamp/index.jpg"
 asian_camp_img:
   index: /assets/img/asiancamp/42445-superhero.jpg
 alpha_omega_img:
