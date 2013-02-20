@@ -24,7 +24,11 @@ layout: base
 	<div class="span4">
 	  <h2>Alpha Omega</h2>
 	  <img class="img-rounded" src="{{site.alpha_omega_img['index']}}">
+<<<<<<< HEAD
+	  <p>Alpha Omega is a group of college-aged youth interested in maintaining and connecting to God through fellowship</p>
+=======
 	  <p>Alpha Omega is a group of college-aged youth interested in maintaining and connect to God through fellowship</p>
+>>>>>>> 0d46f0cacbc070e1f8db3d9968cd3f6b0f0f66f5
 	  <p><a class="btn" href="{{site.alpha_omega}}">View details &raquo;</a></p>
 	</div>
 </div>
