@@ -94,8 +94,8 @@ The directors of JHC are primary examples of leadership, servanthood, and devoti
     <div class="media">
       <ul>
         <li>First year at JHC: a long long time ago in a galaxy far far away... i think 2003 maybe???</li>
-        <li>Hobbies: Computers, Art, Video games</li>
-        <li>Statement about yourself: Only wears Jeans regardless of temperature,  randomly skilled at everything a person shouldnt be skilled at, likes shopping :D </li>
+        <li>Hobbies: Computers, art, video games</li>
+        <li>Statement about yourself: Only wears jeans regardless of temperature,  randomly skilled at everything a person shouldn't be skilled at, likes shopping :D </li>
     </ul>
     </div>
   </div>
