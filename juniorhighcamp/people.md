@@ -85,10 +85,19 @@ The directors of JHC are primary examples of leadership, servanthood, and devoti
   </div>
 </div>
 
-###Kirk Inouye <small>Wesley UMC, San Jose CA</small>
-
-
-
-
-
+<div class="media">
+  <a class="pull-left" >
+    <img class="media-object img-rounded profile-picture" src="{{site.director_pic['kirk']}}" >
+  </a>
+  <div class="media-body">
+    <h3 class="media-heading">Kirk Inouye <small> Wesley UMC, San Jose CA</small></h3>
+    <div class="media">
+      <ul>
+        <li>First year at JHC: a long long time ago in a galaxy far far away... i think 2003 maybe???</li>
+        <li>Hobbies: Computers, Art, Video games</li>
+        <li>Statement about yourself: Only wears Jeans regardless of temperature,  randomly skilled at everything a person shouldnt be skilled at, likes shopping :D </li>
+    </ul>
+    </div>
+  </div>
+</div>
 
