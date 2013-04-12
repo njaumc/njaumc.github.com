@@ -41,14 +41,16 @@ director_pic:
   ryan: /assets/img/juniorhighcamp/People_Ryan.png
   kirk: /assets/img/juniorhighcamp/People_Kirk.jpg
 
-counselor_app: /assets/docs/CounselorApplication2013.pdf
-
 junior_high_camp: /juniorhighcamp
 asian_camp: /asiancamp
 alpha_omega: /alphaomega
 about: /about.html
 
 asian_camp_counselor_app: /assets/docs/AC2013CounselorApp.pdf
+junior_high_camp_docs:
+  camper_reg: /assets/docs/JHCCamperRegistrationForm2013.pdf
+  counselor_reg: /assets/docs/CounselorApplication2013.pdf
+
 junior_high_camp_img:
   index: "/assets/img/juniorhighcamp/index.jpg"
 asian_camp_img:
