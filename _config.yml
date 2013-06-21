@@ -53,6 +53,7 @@ junior_high_camp_docs:
 
 junior_high_camp_img:
   index: "/assets/img/juniorhighcamp/index.jpg"
+  logo: "/assets/img/juniorhighcamp/logo.jpg"
 asian_camp_img:
   index: /assets/img/asiancamp/42445-superhero.jpg
 alpha_omega_img:
