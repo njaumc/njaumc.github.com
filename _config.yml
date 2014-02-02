@@ -32,15 +32,6 @@ js:
 production_url: http://njaumc.github.com
 baseurl: /
 
-director_desc:
-  darrell: /contents/Darrell_description.md
-director_pic: 
-  darrell: /assets/img/juniorhighcamp/People_Darrell.jpeg
-  justin: /assets/img/juniorhighcamp/People_Justin.jpg
-  darin: /assets/img/juniorhighcamp/People_Darin.jpg
-  ryan: /assets/img/juniorhighcamp/People_Ryan.png
-  kirk: /assets/img/juniorhighcamp/People_Kirk.jpg
-
 junior_high_camp: /juniorhighcamp
 asian_camp: /asiancamp
 alpha_omega: /alphaomega
