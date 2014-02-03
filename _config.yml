@@ -36,11 +36,6 @@ asian_camp: /asiancamp
 alpha_omega: /alphaomega
 about: /about.html
 
-asian_camp_counselor_app: /assets/docs/AC2013CounselorApp.pdf
-junior_high_camp_docs:
-  camper_reg: /assets/docs/JHCCamperRegistrationForm2013.pdf
-  counselor_reg: /assets/docs/CounselorApplication2013.pdf
-
 junior_high_camp_img:
   index: "/assets/img/juniorhighcamp/index.jpg"
   logo: "/assets/img/juniorhighcamp/logo.jpg"
