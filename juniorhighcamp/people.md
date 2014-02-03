@@ -5,7 +5,7 @@ description: ""
 ---
 The directors of JHC are primary examples of leadership, servanthood, and devotion towards Christ.  Learn more about them below!
 
-{% for person in site.data.people %}
+{% for person in site.data.jhc_people %}
 <div class="media">
   <a class="pull-left">
     <img class="media-object img-rounded profile-picture" src="{{person.image}}">
