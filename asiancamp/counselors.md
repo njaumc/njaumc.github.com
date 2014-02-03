@@ -13,12 +13,5 @@ groups, large group activities, and cabins. Please do your best to complete it t
 letter of recommendation must in the hands of the Design Team by February 17, 2013. We are taking the counselor application
 and its deadline very serious this year because we need to schedule Skype/phone conversations! 
 
-Please mail the
-forms to:
-<address>
-<strong>Chad Uemura</strong><br>
-15515 Manhattan Pl.<br>
-Gardena CA, 90249<br>
-</address>
 For any questions about the application process, meeting dates/locations, or Asian Camp in general please contact any Design Team
 member.
