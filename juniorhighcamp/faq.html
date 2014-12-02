@@ -6,41 +6,7 @@ description: ""
 <small>"frequently asked questions"</small>
 
 <h4>Campers and Parents</h4>
-<div class="accordion" id="accordion2">
-    <div class="accordion-group">
-	      <div class="accordion-heading">
-	        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-	          <h5>When does JHC take place?</h5>
-	        </a>
-	      </div>
-	      <div id="collapseOne" class="accordion-body collapse" >
-	        <div class="accordion-inner">
-	        June 29th - July 4th, 2014
-	        </div>
-	      </div>
-	    </div>
-	    <div class="accordion-group">
-	      <div class="accordion-heading">
-	        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-	          <h5>Where does JHC take place?</h5>
-	        </a>
-	      </div>
-	      <div id="collapseTwo" class="accordion-body collapse" >
-	        <div class="accordion-inner">
-	        <a href="http://uccr.org/camp/camp-lodestar">Camp Lodestar</a> at 6135 Blue Mountain, Wilseyville, CA 95257
-	        </div>
-	      </div>
-	    </div>
-	    <div class="accordion-group">
-	      <div class="accordion-heading">
-	        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
-	          <h5>Is camp fun?</h5>
-	        </a>
-	      </div>
-	      <div id="collapseThree" class="accordion-body collapse">
-	        <div class="accordion-inner">
-				Yes! But don't take it from me, ask any previous campers, counselors or directors!
-	        </div>
-	      </div>
-    </div>
-</div>
+{% for faq in site.data.jhc_faq %}
+	<h5>Question: {{faq.question}}</h5>
+	<p>Answer: {{faq.answer}}</p>
+{% endfor %}
