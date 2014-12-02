@@ -1,27 +1,39 @@
+- name: Alyssa Yamashita
+  school: UC Riverside, 2nd year
+  blurb: "The only thing Alyssa loves more than sleep is directing JHC.  Alyssa provides the relaxed yet fun energy to the team and serves as the constant reminder to always embody the meaning of camp: to pour love into each other just as God has poured into us."
+  self: “Camp is a place of love, acceptance, and fun. It is my home away from home and it has brought me so much joy, being able to experience God’s love and being able to learn from friends who I consider family. Camp has given me so much, and I hope that these campers have a great experience and strengthen their faith throughout the extremely fun week!”
+  image: "/assets/img/juniorhighcamp/People_Alyssa.jpg"
+
+- name: Camille Obata
+  school: UC Riverside, 2nd year
+  blurb: After recently receiving her Driver’s License and posting the best Instagram captions, Camille is more than ready to take on the role of directing with her open-mindedness, comforting nature and love for camp family. 
+  self: “Camp mean spending time growing closer to God with people who have become my family.  Directing JHC means pouring God’s grace and love into planning a packed week of fun activities and spiritual growth.”
+  image: "/assets/img/juniorhighcamp/People_Camille.jpg"
+
 - name: Darin Chun
-  church: Faith United Methodist Church, Torrance, CA
-  quote: "\"Whoever speaks must do so as one speaking the very words of God; whoever serves must do so with the strength that God supplies, so that God may be glorified in all things through Jesus Christ. To him belong the glory and the power forever and ever. Amen.\" 1 Peter 4:11"
-  hobbies: "Tuba, basketball, golf, drums, beating USC"
-  blurb: "Darin has been a part of JHC for six years: two as a camper, three as a counselor, and one as a director. His favorite part about JHC is that he gets to spend a week surrounded by inspiring youth brought together through God's love and grace. He is blessed to be able to give back to a camp that nurtures campers' and counselors' faith through fellowship and praise."
+  school: UCLA, 4th year
+  blurb: The blunt and brilliant realist of the team who survives off of eating the other directors’ food and free UCLA t-shirts while balancing his Neuroscience major and passion for showing children how much greater it is to live a life in faith. 
+  self: “Camp is a great way for kids to grow together and in their relationships with God.  Any help I can offer in facilitating positive growth in the campers and counseling staff makes my job as a director worthwhile.”
   image: "/assets/img/juniorhighcamp/People_Darin.jpg"
 
-- name: Ryan Fong
-  church: Faith United Methodist Church, Torrance, CA
-  quote: "\"My attitude is that if you push me towards something that you think is a weakness, then I will turn that perceived weakness into a strength.\"- Michael Jordan"
-  hobbies: Basketball, Movies, Board games, Golden State Warriors, Superheroes
-  blurb: "Ryan Fong grew up hearing stories about JHC from his three older siblings and always had a huge desire to find out why everybody loved JHC. JHC has been the biggest staple for Ryan’s faith journey and he looks forward to further growing his walk with God with another step in a new direction at JHC."
-  image: "/assets/img/juniorhighcamp/People_Ryan.jpg"
+- name: Kelli Tani
+  school: UCLA, 2nd year
+  blurb: Remembered as the loud and overly eager camper at JHC, Kelli is grateful that camp has provided her with the support and confidence to find herself, and she is looking forward to giving that same space and love to the campers at JHC this year. 
+  self: “For me, the lessons and relationships I’ve gained from camp has served as the foundation for my personal growth even seven years later, and I hope to plant that same seed in campers this year.  There is nothing I love more than leading the children by showing them how much greater it is to live a life in faith.”
+  image: "/assets/img/juniorhighcamp/People_Kelli.jpg"
 
 - name: Kirk Inouye
-  church: Blaine United Methodist Church, Seattle, WA
-  quote: "\"I love JHC!\" -Kirk Inouye"
-  hobbies: "Computers, art, video games"
-  blurb: "Only wears jeans regardless of temperature,  randomly skilled at everything a person shouldn't be skilled at, likes shopping."
+  occupation: UJCC Youth Director
+  blurb: As a fourth year director, Kirk provides the core focus and creative soul to the other directors who look up to his computer gaming skills, pulling off cut-off jeans, and most importantly his unwavering strength in God. 
   image: "/assets/img/juniorhighcamp/People_Kirk.jpg"
 
-- name: "Stephanie Chou"
-  church: "Wesley United Methodist Church, San Jose, CA"
-  quote: "\"Grateful to be a little boat full of water, still floating.\" -John Green"
-  hobbies: "Gymnastics, plain tart frozen yogurt, and vlogbrothers"
-  blurb: "Stephanie grew up at Wesley UMC where she was constantly surrounded by wonderful, loving, and supportive people. Inspired by her aunts' experiences with Asian Camp, she decided to get involved with Junior High Camp. After being blessed by the family JHC gave her, she is excited and thankful to have the opportunity to give back to the same camp and aid in the growth of JHC for the youth to come."
+- name: Ryan Fong
+  school: Cal State Fullerton, 4th year
+  blurb: The Golden State Warriors fan and another lover of other directors’ food, Ryan, is a role model to each director, counselor and camper because of his strong faith and the kind and gentle support he shows everyone around him. 
+  self: “Camp is home for my faith. Camp has really opened my eyes and heart to the foundations of Christianity and has encouraged me to grow.”
+  image: "/assets/img/juniorhighcamp/People_Ryan.jpg"
+
+- name: Stephanie Chou
+  school: UCLA, 2nd year
+  blurb: All throughout the year, “Thank goodness for Steph,” can be heard as she keeps the goofy and eccentric directors in line with her love of organizing, making schedules and providing the emotional support to each director, counselor and camper.
   image: "/assets/img/juniorhighcamp/People_Stephanie.jpg"
