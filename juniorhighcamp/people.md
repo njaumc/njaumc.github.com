@@ -11,15 +11,12 @@ The directors of JHC are primary examples of leadership, servanthood, and devoti
     <img class="media-object img-rounded profile-picture" src="{{person.image}}">
   </a>
   <div class="media-body">
-    <h3 class="media-heading">{{person.name}} <small>{{person.church}}</small></h3>
+    <h3 class="media-heading">{{person.name}}</h3>
     <div class="media">
-    	<ul>
-        <li>Quote: {{person.quote}}</li>
-  			<li>Hobbies and Interests: {{person.hobbies}} </li>
-		  </ul>
-   		<p>
-        {{person.blurb}}
-  		</p>
+      {% if person.school %} <p>{{person.school}}</p> {% endif %}
+      {% if person.occupation %} <p>{{person.occupation}}</p> {% endif %}
+   		<p>{{person.blurb}}</p>
+      {% if person.self %} <p>{{person.self}}</p> {% endif %}
     </div>
   </div>
 </div>
