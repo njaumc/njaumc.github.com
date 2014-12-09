@@ -1,0 +1,15 @@
+---
+layout: juniorhighcamp
+title: "Past Counselor and Camper Testimonial"
+description: ""
+---
+
+{% for title in site.data.jhc_testimonials %}
+  <h2>{{title[0]}}</h2>
+  {% for people in title %}
+    {% for person in people %}
+     <h3>{{person.name}} <small><em>{{person.grade}}</em></small></h3>
+     <p>{{person.quote}}</p>
+    {% endfor %}
+  {% endfor %}
+{% endfor %} 
