@@ -16,8 +16,8 @@ Asian Camp Design Team:
       <ul>
         <li>Quote: {{person.quote}}</li>
         <li>Scripture: {{person.scripture}} </li>
-        <li>Occupation: {{person.occupation}} </li>
-        <li>Years at Camp: {{person.years}} </li>
+        {% if person.occupation %}<li>Occupation: {{person.occupation}} </li>{% endif %}
+        {% if person.years %}<li>Years at Camp: {{person.years}} </li>{% endif %}
       </ul>
       <p>
         {{person.blurb}}
