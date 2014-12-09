@@ -4,4 +4,4 @@ title: "Counselors"
 description: ""
 ---
 
-Counselor Applications: Available in December 2014 (aka very soon).
+[Download the counselor application](/assets/docs/JHCCounselorApplication2015.pdf)
