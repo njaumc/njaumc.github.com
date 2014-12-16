@@ -36,9 +36,6 @@ asian_camp: /asiancamp
 alpha_omega: /alphaomega
 about: /about.html
 
-asian_camp_doc:
-  counselor_app: "/assets/docs/AC2014CounselorApplication.pdf"
-
 junior_high_camp_img:
   index: "/assets/img/juniorhighcamp/index.jpg"
   logo: "/assets/img/juniorhighcamp/logo.jpg"
