@@ -3,7 +3,14 @@ layout: base
 ---
 ##Our Mission
 
-We desire to introduce youth to Christ, nurture their faith and send them forth as Christian disciples and leaders for the transformation of their community and world.
+To introduce youth to Christ, nurture their faith and send them forth as Christian disciples and leaders for the transformation of their community and world. 
+
+##Camping Ministry Principles and Core Values
+- To support and encourage youth to actively participate and be in relationship to their local church community.
+- To love people of all ethnicities, genders, sexual orientation or experiences of faith.
+- To offer a community of acceptance, support, guidance and fellowship that strengthens the foundation for their journey.
+- To raise awareness and encourage faithful response to social injustice in our community and world.
+
 
 ##Our Connection
  
