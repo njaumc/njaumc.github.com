@@ -25,3 +25,5 @@ Throughout the years, the ministry of Asian Camp has touched and influenced the 
 Today, the ministry of Asian Camp is more greatly needed than ever, for we are aware that our youth are seeking to find meaning, direction and wholeness at a time when they are receiving many mixed messages in their lives, In this Asian Camp seeks to give them hope and promise for today, and for their future.  We believe in the ministry of Asian Camp, and believe that we can and will make a difference in the lives of our youth, enabling them, with God's help, to shape their tomorrows, so that they might be all that God has created them to be.
 
 Please pray for us in our preparations, and pray for the success of our camp, that those who come to Asian Camp 2012 will be touched by the life-transforming love of Christ.
+
+<img class="img-rounded" src="/assets/img/asiancamp/About.jpg">
