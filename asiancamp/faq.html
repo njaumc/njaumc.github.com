@@ -6,41 +6,7 @@ description: ""
 <small>"frequently asked questions"</small>
 
 <h4>Campers and Parents</h4>
-<div class="accordion" id="accordion2">
-    <div class="accordion-group">
-	      <div class="accordion-heading">
-	        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-	          <h5>When does Asian Camp take place?</h5>
-	        </a>
-	      </div>
-	      <div id="collapseOne" class="accordion-body collapse" >
-	        <div class="accordion-inner">
-	        To Be Determined
-	        </div>
-	      </div>
-	    </div>
-	    <div class="accordion-group">
-	      <div class="accordion-heading">
-	        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-	          <h5>What should I bring to camp?</h5>
-	        </a>
-	      </div>
-	      <div id="collapseTwo" class="accordion-body collapse" >
-	        <div class="accordion-inner">
-				Campers are asked to bring a sleeping bag, pillow, bath towels and toiletries, casual clothing (for warm and cool weather), athletic shoes, swimsuit for the swimming area, flashlight, and, of course, your bible. Other optional items may include cameras, musical instruments, insect repellent. You may bring snacks, but food is not allowed in cabins! Also, Camp Sierra has a camp store from which you may buy snacks and goodies. Please consider carefully any valuables you intend to bring to camp. Although we will do our best to recover any lost or stolen articles, Asian Camp cannot be held liable for any of them.
-	        </div>
-	      </div>
-	    </div>
-	    <div class="accordion-group">
-	      <div class="accordion-heading">
-	        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
-	          <h5>Is camp fun?</h5>
-	        </a>
-	      </div>
-	      <div id="collapseThree" class="accordion-body collapse">
-	        <div class="accordion-inner">
-				Yes! But don't take it from me, ask any previous campers, counselors or directors!
-	        </div>
-	      </div>
-    </div>
-</div>
+{% for faq in site.data.ac_faq %}
+	<h5>Question: {{faq.question}}</h5>
+	<p>Answer: {{faq.answer}}</p>
+{% endfor %}
