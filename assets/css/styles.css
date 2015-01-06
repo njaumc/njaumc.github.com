@@ -44,4 +44,7 @@ img.profile-picture {
   width: 186px;
 }
 
+.content {
+  max-width: 700px;
+}
 
