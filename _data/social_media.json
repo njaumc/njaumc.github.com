@@ -1,0 +1,13 @@
+[{
+  name: "Instagram",
+  img: "/assets/img/socialmedia/Instagram.png",
+  url: "http://instagram.com/njaumc_camps"
+}, {
+  name: "Facebook",
+  img: "/assets/img/socialmedia/Facebook.png",
+  url: "https://www.facebook.com/njaumc.camps",
+}, {
+  name: "Twitter",
+  img: "/assets/img/socialmedia/Twitter.png",
+  url: "https://twitter.com/njaumc_camps"
+}]
