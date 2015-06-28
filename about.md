@@ -19,6 +19,7 @@ We are connected to the United Methodist Church through the National Japanese Am
 We are ecumenically connected to other Japanese-American churches, as shown below.
  
 Here are some churches who have been a part of JHC
+
 - Aldersgate UMC - Palo Alto, CA
 - Berkeley Methodist United - Berkeley, CA
 - Blaine UMC - Seattle, WA
