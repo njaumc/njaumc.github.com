@@ -37,6 +37,10 @@ If you answered YES to those questions, we would love for you to apply to join o
   * May 14    PNW – Blaine UMC
 * All Cal 2
   * June 24-26 (UJCC)
+* Camp
+  * July 24-29
+* Post-camp
+  * July 30
 
 ##Application Submission Instructions
 There are 6 IMPORTANT STEPS to complete your Application:
