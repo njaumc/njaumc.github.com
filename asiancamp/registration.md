@@ -9,7 +9,7 @@ Interested in camp?
 * Read the [camper info for 2016](/assets/docs/ACCamperAppInfoforwebsite2016.docx)
 * Follow the registration checklist below
 
-##Registration Checklist
+Registration Checklist
 
 1. Submit the [General Info Form](https://goo.gl/Ojb332) (online)
 2. Submit the [Medical Form](https://goo.gl/W5M55d) (online)
