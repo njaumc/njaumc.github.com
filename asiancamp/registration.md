@@ -10,6 +10,7 @@ Interested in camp?
 * Follow the registration checklist below
 
 ##Registration Checklist
+
 1. Submit the [General Info Form](https://goo.gl/Ojb332) (online)
 2. Submit the [Medical Form](https://goo.gl/W5M55d) (online)
 3. Print the [Camp Guidelines Page](/assets/docs/ACCampGuidelines2016.pdf) and have it signed by you, your parent, and pastor
