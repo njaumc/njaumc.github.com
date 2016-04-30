@@ -8,7 +8,7 @@ JHC stands for Junior High Camp, a camp that is geared towards incoming 6th, 7th
 
 Although there are ties to the NJAUMC, we strive to not exclude others based on race or ethnicity.  In addition, we love people of all ethinicities, genders, sexual orientations, faith experiences, or economic situations.  We try to offer a community of acceptance, support, guidance, and fellowship that strengthens their spiritual journey and encourages not only participation in their local church but the awareness and response of social injustices in our community and world.
 
-##Our History
+## Our History
  
 Originally, the camp was owned and operated under an ecumenical federation of Japanese-American churches in the Northern California Area.  Although the specifc year cannot be pinpointed due to the fact that the camp name has changed numerous times, the history of JHC goes back over 60 years.  Over the years, the ownership of the camp transferred under the NJAUMC and is now governed by the NJAUMC Camping Board, who oversees JHC, Asian Camp (high-school age Summer camp), and our AO retreat (college-age).
  
@@ -16,7 +16,7 @@ In 2004, a movement began to expand towards the Southern California area.  They 
  
 4 years ago, we began including churches from Washington, which has been a growing strength in the North.  We trained our first counselor from the Washington area last year by our first director in Washington (2012).  We hope that this growth in attendance and leadership continues for many years to come.
 
-##Our Goals
+## Our Goals
  
 Our goals for JHC are related to creating everlasting relationships with God that will last a lifetime.  Counselors are trained for six months to work with junior highers to have an amazing experience with their peers as well as understanding the life and teachings of Christ. 
  

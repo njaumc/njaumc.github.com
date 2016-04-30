@@ -6,7 +6,7 @@ description: ""
 
 Asian Camp is a summer camp for high school to college age youth entering 10th grade through their sophomore year in college.
 
-###Mission Statement
+### Mission Statement
 
 Asian American Summer Camp (AC) is a Christian youth camp sponsored by the National Japanese American United Methodist Caucus (NJAUMC) for all youth entering 10th grade to sophomores in college in the Fall of {{ site.time | date: '%Y' }}. In its {{ site.time | date: '%Y' | minus: 1974}}  year history of empowering and inspirational ministry, Asian Camp has developed a reputation amongst it’s participants as a family-like community, yielding lifelong relationships and faithful servants of God.
 
@@ -14,7 +14,7 @@ The mission of “Asian Camp” is to reach out to youth and young adults in our
 
 A hallmark of Asian Camp that sets it apart from other Christian summer camps is a tradition of creating its own programming, with inclusion of activities that focus on our Asian heritages and social justice issues relevant to today’s youth. With every aspect of programming, Asian Camp aims to foster an atmosphere of love and acceptance, where youth feel secure in their personal identities, but are still challenged to be all that God has created them to be. Within this context, our intent is to create life-affirming experiences that will root Asian Camp participants in understanding of their relationships with God and their identity.
 
-###History
+### History
 
 Begun in 1974 under the direction of Rev. Peter Chen and Rev. Harry Marakami, the impetus for the formation of Asian Camp was the realization that the Asian American youth of our United Methodist churches were not attending district and conference camps, as they were finding that these camps did not meet their needs or speak to their unique experiences as ethnic minorities.  Rev. Chen and Rev. Marakami went to the heart of our Asian American United Methodist churches and developed a camp that would speak to the youth right where they were, but also challenged their faith so that they might come to a deeper and more meaningful relationship with Christ, seen through the eyes and felt in the heart and known by the Spirit of the Asian American faith experience.
 

@@ -8,7 +8,7 @@ description: ""
 “If anyone serves me, he must follow me; and where I am, there will my servant be also. If anyone serves me, the Father will honor him.” - John 12:26
 </div>
 
-##Join Us!
+## Join Us!
 
 The Camp Directors are excited for you to join them in this opportunity to be with God! We pray to allow Him to work through all of us to plan another meaningful year for the spiritual formation of our youth and local churches.
 
@@ -25,7 +25,7 @@ If you are interested in serving Christ with us this year, we need you to ask yo
 
 If you answered YES to those questions, we would love for you to apply to join our STAFF!
 
-##Counselor Training Dates
+## Counselor Training Dates
 
 * Regional 1
   * Feb 13   Socal – Faith UMC
@@ -42,7 +42,7 @@ If you answered YES to those questions, we would love for you to apply to join o
 * Post-camp
   * July 30
 
-##Application Submission Instructions
+## Application Submission Instructions
 There are 6 IMPORTANT STEPS to complete your Application:
 
 1. READ EVERYTHING carefully. (The Directors will know if you don’t)
@@ -55,7 +55,8 @@ There are 6 IMPORTANT STEPS to complete your Application:
 
 **Please direct ALL APPLICATIONS and QUESTIONS to "Registrar TYLER MAR"**
 
-##Resources
+## Resources
+
 * Download the [submission instructions](https://drive.google.com/file/d/0BzC7xTLSFDvmZ2RrN2p3NGNLNEU/view?usp=sharing)
 * Download the [Asian Camp Staff Rules and Guidelines](https://drive.google.com/file/d/0B_GJLCz6DMvyWlZIZC0zcGNRNDg/view?usp=sharing)
 
