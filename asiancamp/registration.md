@@ -4,12 +4,7 @@ title: "Registration"
 description: ""
 ---
 
-## Camp Information
-The United Methodist Church Asian American Summer Camp, in its 42nd year history of empowering and inspirational ministry, has developed a reputation amongst its participants as a family-like community, yielding lifelong relationships and faithful servants of God. The mission of “Asian Camp” is to reach out to youth and young adults in our Asian American churches and communities, in effort to lead them toward a closer relationship with Christ. Through worship, fellowship, prayer, growth groups, community builders, and other outdoor activities, Asian Camp encourages campers, as well as staff, to explore their faiths, reflect on their personal identities, and use their spiritual gifts for God’s glory. With special focus on equipping for the future, Asian Camp seeks to instill pride in each camper’s spiritual, cultural, and ethnic identity.
-
-A hallmark of Asian Camp that sets it apart from other Christian summer camps is a tradition of creating its own programming, with inclusion of activities that focus on our Asian heritages and social justice issues relevant to today’s youth. With every aspect of programming, Asian Camp aims to foster an atmosphere of love and acceptance, where youth feel secure in their personal identities, but are still challenged to be all that God has created them to be. Within this context, our intent is to create life-affirming experiences that will root Asian Camp participants in an understanding of their relationships with God and with each other and in love of themselves as loved sons and daughters of God.
-
-## Theme: Self(LESS)
+## Theme: Self(Less)
 
 We will look at ourselves and our own faith and find what it means to be selfless like God. Throughout the week, we will learn what the bible says about being self-centered, self-judging, self-supporting and self-sufficient and reflect on how we can be more selfless, God-centered.
 
