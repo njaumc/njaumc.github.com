@@ -6,7 +6,7 @@ description: ""
 
 ## Theme: Self(Less)
 
-We will look at ourselves and our own faith and find what it means to be selfless like God. Throughout the week, we will learn what the bible says about being self-centered, self-judging, self-supporting and self-sufficient and reflect on how we can be more selfless, God-centered.
+In a “Selfie-filled” world, we are taught to be proud of ourselves and our accomplishments, and we’ve learned to put our value in everything that society has deemed important. However, God calls us to, in fact, pursue “Less” of ourselves and “More” of Him every day.  This week we will be reflecting on how we can live a more God-centered life and what applications that has for where we are right now.
 
 ## When & Where
 Sunday, July 24 – Friday, July 29, 2016
