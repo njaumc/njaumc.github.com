@@ -29,7 +29,7 @@ Registration fee for Asian American Summer Camp is
   Los Angeles, CA 90016<br>
 </address>
 
-Registration forms must be completed, postmarked, and mailed by <strong>June 12, 2016</strong>. Thereafter, <strong>a late fee of $100</strong> will be applied. Any cancellations after July 3rd are subject to a $100 penalty.
+Registration forms must be completed, postmarked, and mailed by <strong>June 12, 2016</strong>. Thereafter, <strong>a late fee of $100</strong> will be applied. If you have any concerns regarding the late fee, please contact Kara Chin at (425) 444-0630. Any cancellations after July 3rd are subject to a $100 penalty.
 
 ## Transportation
 
@@ -78,13 +78,12 @@ Camp Lodestar’s facilities are either dorm style with attached bathrooms or wi
 
 ## Registration Checklist
 
-1. READ EVERYTHING carefully
-2. Submit the <a href="https://goo.gl/Ojb332" target="_blank">General Info Form</a> (online)
-3. Submit the <a href="https://goo.gl/W5M55d" target="_blank">Medical Form</a> (online)
-4. Print the <a href="/assets/docs/ACCampGuidelines2016.pdf" target="_blank">Camp Guidelines Page</a> and have it signed by you, your parent, and pastor
-5.  Print the <a href="/assets/docs/ACMedicalAuthorizationForm2016.pdf" target="_blank">Medical Authorization Form</a> and have it signed by your parent and physician
-6. Mail a copy of your Medical Insurance card to the address below
-7.  Mail your check to the address below 
+1. Submit the <a href="https://goo.gl/Ojb332" target="_blank">General Info Form</a> (online)
+2. Submit the <a href="https://goo.gl/W5M55d" target="_blank">Medical Form</a> (online)
+3. Print the <a href="/assets/docs/ACCampGuidelines2016.pdf" target="_blank">Camp Guidelines Page</a> and have it signed by you, your parent, and pastor
+4. Print the <a href="/assets/docs/ACMedicalAuthorizationForm2016.pdf" target="_blank">Medical Authorization Form</a> and have it signed by your parent and physician
+5. Mail a copy of your Medical Insurance card to the address below
+6. Mail your check to the address below
 
 Early:  $445 postmarked before June 12, 2016<br>
 Late: $545 postmarked before July 3, 2016
