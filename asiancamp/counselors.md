@@ -11,49 +11,50 @@ description: ""
 ## Join Us!
 
 The Camp Directors are excited for you to join them in this opportunity to be with God! We pray to allow Him to work through all of us to plan another meaningful year for the spiritual formation of our youth and local churches.
+Serving as a Camp Counselor is a big responsibility and an experience that we hope you find graceful, challenging, and purposeful.
+The following prerequisites must be met:
 
-Serving as a Camp Counselor is big responsibility and an experience that we hope you find graceful, challenging, and purposeful.
+1. Entering 3rd year of college or older.
+2. Actively participating at your local church or any other Christian based organization.
+3. Must have an active relationship with Christ. 
+4. Must attend the full week of camp and Post-Camp. July 23-29th, 2017
+5. Must also attend both All-Staff meetings and Regionals. (See counselor training dates below)
 
-If you are interested in serving Christ with us this year, we need you to ask yourself these 6 questions:
+If you meet these prerequisites, we would love for you to apply to join our STAFF!
 
-1. Are you entering your 3rd year of college or older?
-2. Do you have experience working with youth?
-3. Are you actively serving in your local church?
-4. Has Jesus been working in your heart?
-5. Can you attend the week of Camp?
-6. Can you also attend Regional Trainings #1, #2, and Counselor Retreats #1, #2? (See counselor training dates below)
-
-If you answered YES to those questions, we would love for you to apply to join our STAFF!
+If you feel that you are unable to meet the above prerequisites, but would still like to be a part of the counseling staff, please contact the directing team at [AsianCampDT@gmail.com](mailto:AsianCampDT@gmail.com). 
 
 ## Counselor Training Dates
 
 * Regional 1
-  * Feb 13   Socal – Faith UMC
-  * Feb 20   Norcal – Wesley UMC; PNW – Blaine UMC
+  * Feb 18 Socal – Faith UMC
+  * Feb 25 Norcal – Wesley UMC; PNW – Blaine UMC
 * All Cal 1
-  * April 8-10   Faith UMC
+  * March 31-April 1 Faith UMC
 * Regional 2
-  * April 30   Norcal – Wesley UMC; Socal – Faith UMC
-  * May 14    PNW – Blaine UMC
+  * May 6 Socal – Faith UMC
+  * May 13 Norcal – Wesley UMC; PNW – Blaine UMC
 * All Cal 2
-  * June 24-26 (UJCC)
+  * June 23-25  Faith UMC
 * Camp
-  * July 24-29
+  * July 23-28 Camp Lodestar
 * Post-camp
-  * July 30
+  * July 29-30
 
 ## Application Submission Instructions
 There are 6 IMPORTANT STEPS to complete your Application:
 
 1. READ EVERYTHING carefully. (The Directors will know if you don’t)
-2. Submit the <a href="https://docs.google.com/forms/d/1HwFLN5Lk8ASWAn0MrO1mig3Z7wiSVjT_aiXk-0yfCL4/viewform" target="_blank">General Info Form</a>
-3. Submit the <a href="https://docs.google.com/forms/d/1Vgig2Cckszn8frFP1kgK3ulaPLNtTSJEWW74Veb_Trc/viewform" target="_blank">Medical Form</a>
-4. Submit the <a href="https://docs.google.com/forms/d/1ifoK6-tKtO5GI4x-pNXay8mBUPDy1XPYqqF6HqvpqIA/viewform" target="_blank">Application Questions Form</a>
-5. Print the Staff Rules and Guidelines Page (below) and have your Pastor Sign it. (Submit to the Registrar by the Regional Training #1)
-6. Obtain a letter of Recommendation from your Pastor (Submit to the Registrar)
+2. Submit the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZOpXo0eS2x6VGHme-6D9By8_HAjMVFVVRQs7VlOA-NvObSA/viewform" target="_blank">General Info Form</a>
+3. Submit the <a href="https://docs.google.com/forms/d/e/1FAIpQLScwt_vMGmY8yiUFbva1uwvsqkpoxPskS4DuRZofVagXEn9Dlw/viewform" target="_blank">Application Questions Form</a>
+4. Submit the <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7mn3UlWEETjraa_HVvvaIR_NODJQOvJw4dw6i4NOl1Doncg/viewform" target="_blank">Medical Form</a>
+5.  Send a Scan of your Insurance Card and send to the Registrar.
+6.  Print the Staff Rules and Guidelines Page (below) and have your Pastor Sign it. (Submit to the Registrar by the Regional Training #1)
+7.  Obtain a letter of Recommendation from your Pastor (Submit to the Registrar)
 
+**Please direct ALL APPLICATIONS and QUESTIONS to the Asian Camp Design Team at:
+[AsianCampDT@gmail.com](mailto:AsianCampDT@gmail.com) with Counselor Registration in the Subject**
 
-**Please direct ALL APPLICATIONS and QUESTIONS to "Registrar TYLER MAR"**
 
 ## Resources
 
