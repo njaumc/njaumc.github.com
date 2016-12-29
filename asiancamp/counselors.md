@@ -45,7 +45,7 @@ If you feel that you are unable to meet the above prerequisites, but would still
   * July 29-30
 
 ## Application Submission Instructions
-There are 6 IMPORTANT STEPS to complete your Application:
+There are 7 IMPORTANT STEPS to complete your Application:
 
 1. READ EVERYTHING carefully. (The Directors will know if you don’t)
 2. Submit the <a href="https://docs.google.com/forms/d/1HwFLN5Lk8ASWAn0MrO1mig3Z7wiSVjT_aiXk-0yfCL4/viewform" target="_blank">General Info Form</a>
