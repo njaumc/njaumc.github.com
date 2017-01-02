@@ -25,7 +25,7 @@ The following prerequisites must be met:
 
 If you meet these prerequisites, we would love for you to apply to join our STAFF!
 
-If you feel that you are unable to meet the above prerequisites, but would still like to be a part of the counseling staff, please contact the directing team at [AsianCampDT@gmail.com](mailto:AsianCampDT@gmail.com). 
+If you feel that you are unable to meet the above prerequisites, but would still like to be a part of the counseling staff, please contact the Design Team at [AsianCampDT@gmail.com](mailto:AsianCampDT@gmail.com).
 
 ## Counselor Training Dates
 
@@ -40,20 +40,20 @@ If you feel that you are unable to meet the above prerequisites, but would still
 * All Cal 2
   * June 23-25  Faith UMC
 * Camp
-  * July 23-28 Camp Lodestar
+  * July 23-29 Camp Lodestar
 * Post-camp
   * July 29-30
 
 ## Application Submission Instructions
 There are 7 IMPORTANT STEPS to complete your Application:
 
-1. READ EVERYTHING carefully. (The Directors will know if you don’t)
+1. READ EVERYTHING carefully. (The Design Team will know if you don’t)
 2. Submit the <a href="https://docs.google.com/forms/d/1HwFLN5Lk8ASWAn0MrO1mig3Z7wiSVjT_aiXk-0yfCL4/viewform" target="_blank">General Info Form</a>
 3. Submit the <a href="https://docs.google.com/forms/d/1ifoK6-tKtO5GI4x-pNXay8mBUPDy1XPYqqF6HqvpqIA/viewform" target="_blank">Application Questions Form</a>
 4. Submit the <a href="https://docs.google.com/forms/d/1Vgig2Cckszn8frFP1kgK3ulaPLNtTSJEWW74Veb_Trc/viewform" target="_blank">Medical Form</a>
-5.  Send a Scan of your Insurance Card and send to the Registrar.
-6.  Print the Staff Rules and Guidelines Page (below) and have your Pastor Sign it. (Submit to the Registrar by the Regional Training #1)
-7.  Obtain a letter of Recommendation from your Pastor (Submit to the Registrar)
+5.  Send a Scan of your Insurance Card and send to the Design Team.
+6.  Print the Staff Rules and Guidelines Page (below) and have your Pastor Sign it. (Submit to the Design Team by the Regional Training #1)
+7.  Obtain a letter of Recommendation from your Pastor (Submit to the Design Team)
 
 **Please direct ALL APPLICATIONS and QUESTIONS to the Asian Camp Design Team at:
 [AsianCampDT@gmail.com](mailto:AsianCampDT@gmail.com) with Counselor Registration in the Subject**
