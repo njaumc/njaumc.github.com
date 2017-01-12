@@ -55,6 +55,8 @@ There are 7 IMPORTANT STEPS to complete your Application:
 6.  Print the Staff Rules and Guidelines Page (below) and have your Pastor Sign it. (Submit to the Design Team by the Regional Training #1)
 7.  Obtain a letter of Recommendation from your Pastor (Submit to the Design Team)
 
+*Estimated registration fee for the week of camp is 75% of the camper registration fee*
+
 **Please direct ALL APPLICATIONS and QUESTIONS to the Asian Camp Design Team at:
 [AsianCampDT@gmail.com](mailto:AsianCampDT@gmail.com) with Counselor Registration in the Subject**
 
