@@ -33,7 +33,7 @@ If you feel that you are unable to meet the above prerequisites, but would still
   * Feb 18 Socal – Faith UMC
   * Feb 25 Norcal – Wesley UMC; PNW – Blaine UMC
 * All Cal 1
-  * March 31-April 1 Faith UMC
+  * March 31-April 2 Faith UMC
 * Regional 2
   * May 6 Socal – Faith UMC
   * May 13 Norcal – Wesley UMC; PNW – Blaine UMC
