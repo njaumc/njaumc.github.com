@@ -3,14 +3,19 @@ layout: base
 ---
 ## Our Mission
 
-To introduce youth to Christ, nurture their faith and send them forth as Christian disciples and leaders for the transformation of their community and world. 
+To introduce youth to Christ, nurture their faith and send them forth as Christian disciples and leaders for the transformation of their community and world.
 
 ## Camping Ministry Principles and Core Values
-- To support and encourage youth to actively participate and be in relationship to their local church community.
-- To love people of all ethnicities, genders, sexual orientation or experiences of faith.
-- To offer a community of acceptance, support, guidance and fellowship that strengthens the foundation for their journey.
-- To raise awareness and encourage faithful response to social injustice in our community and world.
+- The foundation of our camping ministries is the inclusion and celebration that all people are created, valued and loved by God.
+- To love people of all ethnicities, gender identities and gender expressions, sexual orientation or experiences of faith
+- To offer a community of acceptance, support, guidance and fellowship that strengthens the foundations for their journey
+- To raise awareness and encourage faithful response to social injustice in our community and world
 
+## Non-Discrimination Policy
+ 
+Our emphasis for ministry has and continues to be an outreach to youth and young adults from our NJAUMC churches, however, all of our camps and their activities are available to all persons without regard to race, color, national origin, gender identities and gender expression, sexual orientation or disability. 
+
+The foundation of our camping ministries is the inclusion and celebration that all people are created, valued and loved by God. Our camps do not tolerate discrimination, harassment, and bullying against any person for any reason—for example, because of age, ancestry, color, disability or handicap, national origin, race, religion, gender, sexual or affectional orientation, gender identity, or appearance.
 
 ## Our Connection
  
