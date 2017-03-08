@@ -1,23 +1,41 @@
-- name: Camille Obata
-  header: "A biography of Camille Obata as told by Stephanie"
-  blurb: "Camille Obata is a 3rd year student at UC Riverside who really loves grapefruit juice. This is her second year directing and hails from Buena Vista UMC in Alameda. Aside from being a Junior High Camp director, Camille is very active in her school’s Nikkei Student Union as the social chair. She can also play basketball (a huge feat in my opinion). If she had a favorite kind of cheese, my guess is that it would be a gouda one."
-  image: "/assets/img/juniorhighcamp/People_Camille.jpg"
-  email: camille@juiorhighcamp.org
-
-- name: Kirk Inouye
-  header: "A biography of Kirk Inouye as told by Camille"
-  blurb: "Kirk Inouye is a fourth time Junior High Camp director. Due to his father being a Reverend of the NJAUMC Caucus, Kirk has been a member of a multitude of churches. He currently praises the Lord from the sanctuary of Wesley UMC in San Jose. Kirk has seen the new Star Wars movie 7 times in theaters. If you were to ask anyone to describe Kirk in two words, they would say “pink” and “unicorn”."
-  image: "/assets/img/juniorhighcamp/People_Kirk.jpg"
-  email: kirk@juniorhighcamp.org
+- name: Kelli Yamaguma
+  intro: "Hi! My name is Kelli Yamaguma, and I’m returning for my second year as a JHC Director.  I grew up at Aldersgate UMC in Palo Alto, but have been attending CSU Fullerton in Southern California studying health science.  I will be graduating this May and plan on heading back up to Northern California to be closer to family and with the possibility of pursuing a nursing career."
+  qualities: "I see myself as an easy-going person who loves to make people laugh, and aside from my favorite cartoon character being spongebob, I enjoy going out and having a good meal with good company.  I have one sister and now a brother-in-law (wooo!), and hope to own a puppy in the future!"
+  why: "JHC has always been important to me since I attended as a camper back in 2007.  I met a lot of friends that I still keep in touch with to this day, and it is why I came back to be a counselor and eventually becoming a director.  I see the importance of creating a safe community for youth to get to know one another through knowing God.  "
+  cartoon: ""
+  email: kelli@juniorhighcamp.org
 
 - name: Stephanie Chou
-  header: "A biography of Stephanie Chou as told by Kelli"
-  blurb: "Stephanie Chou is a third year at UCLA and a third time JHC director. She worships from Wesley UMC in her hometown of San Jose. When Steph’s not weighed down by her heavy UCLA workload, you can find her following UCLA athletes around taking care of them and bandaging them up when they need it. If you ask her what’s brown and sticky, she would slyly respond with “ a stick.”"
-  image: "/assets/img/juniorhighcamp/People_Stephanie.jpg"
+  intro: "Hello! My name is Stephanie Chou and when I’m not directing my brain is busy doing a round-off, back handspring, back tuck, back layout, front tucks, and sticking the landing every time! I like to eat everything crunchy, especially when I’m in a meeting with the other directors - and I can even communicate through morse code with my chewing."
+  qualities: "My best qualities are that I am very organized and can keep everyone on track. I am extremely creative when it comes to thinking up games and ways to get the theme across, and I’m not afraid to throw out a half-baked idea and chase it until it comes to fruitrition."
+  why: "I really love JHC because I think it gives the campers a great opportunity to grow in their faith, grow their communities and learn about God with each other. I am proud that I can be a part of something SO great, that has SUCH a legacy, and is such a wonderful ministry for the campers."
+  cartoon: "If I were a cartoon character I would be Droopy Dog"
   email: stephanie@juniorhighcamp.org
 
-- name: Kelli Yamaguma
-  header: "A biography of Kelli Josephine Yamaguma as told by Kirk based on true life events as well as a brief interview taken out of context"
-  blurb: "Kelli Josephine Yamaguma is a 3rd year at CSU Fullerton. Her now everlasting relationship to the njaumc camps origins from her childhood where she grew up at Aldersgate UMC. This will be her first year as Director Support. When she's not busy with her schooling she enjoys culinary activities, like eating, or watching videos of dogs. These fun filled activities however don't distract her in any way from pursuing her dream job of one day becoming a professional puppy petter (PPP). Her love for dogs is unparallelled by anyone. She claims she has actually potty trained 2 hypothetical dogs; Amazing! Kelli can almost always be seen smiling or laughing due to her unusual sense of humor driven by puns. Her sense of humor might be explained through her spirit celeb. She claims to be most aligned with spongebob squarepants on an extreme metaphysical level. Her similarities with spongebob don't end there though; she has some sea stories that will leave your jaw dropped and your nose plugged. For example one time she somehow managed to step on a sea urchin and then had to soak her foot in vinegar. With vinegar scented feet its no surprise that she has an impeccable knack for scents with her favorite scent being corrugated cardboard, which she picked over sheet metal which came in a close second. Lastly she loves being a carnivore for the following three reasons: KBBQ, Corndogs, and meat is good. "
-  image: "/assets/img/juniorhighcamp/People_Kelli.jpg"
-  email: kelli@juniorhighcamp.org
+- name: Camille Obata
+  intro: "My name is Camille Obata and I am in my 3rd year directing JHC after 3 years counseling. I currently attend UC Riverside as a Media and Cultural Studies major and Sociology minor. I am also a Student Program Coordinator for Asian Pacific Student Programs office on campus. When I have time to myself, I watch all TV shows created by Shonda Rhimes."
+  qualities: "I bring strong organizational skills to the staff and am a resolver of conflicts! I love to dive into new activities and groups that I can help contribute to and love meeting new people. Many of my friends call me a caring person who loves to help others succeed and grow. I always look for the positive side of situations and bring lots of laughter to everyone I interact with. "
+  why: "I want to continue giving back and growing to the camp ministries and reignite excitement for spiritual growth amongst youth! My first Camp memory was my first year at Asian Camp when I arrived at camp and was introduced to Kelli Yamaguma. The first thing she did was help me roll my suitcase to the cabin where we were staying. We continue to reminisce about that special first impression to this very day! "
+  cartoon: "If I was a cartoon character I would be Reggie Rocket from Rocket Power!"
+  email: camille@juiorhighcamp.org
+
+- name: Ryan Fong
+  intro: "My name is Ryan Fong and I am one of three advisors for the Directing Team this year. Although my title may have changed over the years - from camper, to counselor, to director, to advisor - I have dedicated many years to support JHC. Outside of camp I work full time as the minister of children, youth, and young adults for BVUMC (i.e. Run the church school program, liaison for the basketball program). I also work part time for the Golden State Warriors in the game operations department helping out with pregame, halftime, and post-game entertainment and activities. In my free time I also coach Buena Vista’s high school basketball team. Go Bulldogs!"
+  qualities: "My greatest contributions to the team are my ability to relate to many people, my veteran insight, my persistent determination, and my exponential passion. I am advising because I love the camp program and am grateful for what it has provided in my life for my spiritual and personal growth. I love to see the next generation experience and embrace camp and love to help as I can. I still remember my own first experience at JHC as an excited 6th grader. In the beginning of the week I got homesick and had to call my mom. Thankfully the reverend from my home church, Rev. Michael, was there to support me. He made me feel better by talking to me, comforting me, and…giving me a banana because it was one of my favorite foods. Go Bananas!"
+  why: ""
+  cartoon: ""
+  email: ""
+
+- name: Gayle Kurasaki
+  intro: "I am Gayle Kurasaki and I have been a part of over 30 NJAUMC camps! Even though I spend my days as medical team member, I love staying involved and active in the church community, supporting them any way I can. This year, I am supporting them as an advisor to the directing team. In my spare time I watch puppy videos, cook amazing 3 Michelin Stars worthy meals, and sing along to Tinkerbell in her movies."
+  qualities: "My greatest contributions to the team are my calm, fiercely supportive foundation, worldly perspective, willingness to share my love of music with others, and ability to challenge others to grow into their fullest potential. My greatest memory from camp is beginning my journey as a Directing Team Advisor last year."
+  why: ""
+  cartoon: "If I were a cartoon character I would be Cobra Bubbles from Lilo and Stitch."
+  email: ""
+
+- name: Jon Visitacion
+  intro: "HELLO! My name is Jon Visitacion and I am one of the advisors this year. I am  currently serving as a pastor at Wesley UMC and have been a part of camp for almost 15 years! When I'm not preaching and helping out with camp, I like to kick back and watch some Netflix or shop around on Amazon."
+  qualities: "I’m a pretty laid back and outgoing guy, but I’m always open to conversations with anyone! I can be pretty talkative once you get me going. I’m always around for a good talk and I love to cheer people up and make them laugh with my witty (and maybe sometimes sarcastic) humor. "
+  why: "Although it’s been a couple years since I’ve been a part of the JHC team, I wanted to come back as an advisor because I really missed working with the camp and being part of the planning process. When I left to get married, I realized how much I missed being at camp and participating in all the summertime activities with the directors, counselors, and campers. My favorite memory of camp was at my very first year of camp during Sharing Show. A buddy of mine and I decided to sing out the Oscar Meyer Weiner song in different accents and variations. It was a definite show stopper! Ask me to sing the song to you and you might get lucky enough to hear an encore of the performance!"
+  cartoon: ""
+  email: ""
