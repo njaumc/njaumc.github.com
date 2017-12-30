@@ -42,9 +42,9 @@ If you feel that you are unable to meet the above prerequisites, but would still
 * All Cal 2
   * June 22-24 @TBD
 * Camp
-  * July 23-29 @Camp Lodestar
+  * July 22-28 @Camp Lodestar
 * Post-camp
-  * July 29-30 @Wesley
+  * July 28-29 @Wesley
 
 ## Application Submission Instructions
 There are 7 IMPORTANT STEPS to complete your Application:
