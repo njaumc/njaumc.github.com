@@ -3,9 +3,11 @@ layout: juniorhighcamp
 title: "People"
 description: ""
 ---
-The directors of JHC are primary examples of leadership, servanthood, and devotion towards Christ.  Learn more about them below!
+
+The directors of JHC are primary examples of leadership, servanthood, and devotion towards Christ. Learn more about them below!
 
 {% for person in site.data.jhc_people %}
+
 <div class="media">
   {% if person.image.size > 0 %}
   <a class="pull-left">
@@ -15,10 +17,7 @@ The directors of JHC are primary examples of leadership, servanthood, and devoti
   <div class="media-body">
     <h3 class="media-heading">{{person.name}}</h3>
     <div class="media">
-      <p>{{person.intro}}:</p>
-   		<p>{{person.qualities}}</p>
-      <p>{{person.why}}</p>
-      <p>{{person.cartoon}}</p>
+      <p>{{person.intro}}</p>
       {% if person.email.size > 0 %}
       <p>Contact: <a href="mailto:{{person.email}}">{{person.email}}</a></p>
       {% endif %}
@@ -26,4 +25,3 @@ The directors of JHC are primary examples of leadership, servanthood, and devoti
   </div>
 </div>
 {% endfor %}
-
