@@ -27,10 +27,6 @@
     {% for social in site.data.social_media %}
       <a href="{{social.url}}"><img class="icon" src="{{social.img}}" alt="{{social.name}}"></a>
     {% endfor %}
-
-    <div>
-		Created by <a href="//colinchang.org">Colin Chang</a>. © Copyright {{site.time | date_to_string | split:" " | last}} 
-    </div>
 	</footer>
 	</div>
 	{% for script in site.js %}
