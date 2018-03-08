@@ -8,7 +8,7 @@ description: ""
 Life gets more and more difficult to navigate, as we are constantly on the move, with so much to accomplish in so little time.  It is easy for us to lose sight of our relationship with God and our community. We may often find ourselves coasting through life seemingly on autopilot, not noticing that our faith has been placed in the backseat. God invites us to wake up to the faith that is all around us. This week we will learn what it means to  “Stay Woke” through understanding ways in which we fall asleep and how the spirit invites us to live “woke” in all areas of our lives.
 
 ## When & Where
-Sunday, July 22 – Friday, July 28, 2018 Camp will be located at <strong>Camp Lodestar</strong>, in Wilseyville, California. All mail should be sent to the address below. Please reserve 3-5 days for delivery
+Sunday, July 22 – Saturday, July 28, 2018 Camp will be located at <strong>Camp Lodestar</strong>, in Wilseyville, California. All mail should be sent to the address below. Please reserve 3-5 days for delivery
 
 <address>
   <strong>Camp Lodestar c/o AASC</strong><br>
