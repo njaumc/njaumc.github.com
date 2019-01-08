@@ -14,24 +14,11 @@ Asian Camp Design Team:
     <h3 class="media-heading">{{person.name}}</h3>
     <div class="media">
       <ul>
-        {% if person.quote and person.quote1 %}
-        <li>Quotes:</li>
-        <ul>
-          <li>{{person.quote}}</li>
-          <li>{{person.quote1}}</li>
-        </ul>
-        {% else %}
-        <li>Quote: {{person.quote}}</li>
-        {% endif %}
-
-        <li>Scripture: {{person.scripture}} </li>
-        <li>Occupation: {{person.occupation}} </li>
-        <li>Years at Camp: {{person.years}} </li>
-        <li>Two animals you’d like to be best friends: {{person.animals}}</li>
+        {% for desc in person.description %}
+        <p>{{desc}}</p>
+        {% endfor %}
+        {{person.scripture}}
       </ul>
-      <p>
-        {{person.why}}
-      </p>
     </div>
   </div>
 </div>
