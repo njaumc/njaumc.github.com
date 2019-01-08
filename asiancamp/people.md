@@ -3,9 +3,11 @@ layout: asiancamp
 title: "People"
 description: ""
 ---
+
 Asian Camp Design Team:
 
 {% for person in site.data.ac_people %}
+
 <div class="media">
   <a class="pull-left">
     <img class="media-object img-rounded profile-picture" src="{{person.image}}">
@@ -23,4 +25,3 @@ Asian Camp Design Team:
   </div>
 </div>
 {% endfor %}
-
