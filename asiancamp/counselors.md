@@ -56,7 +56,7 @@ There are 7 IMPORTANT STEPS to complete your Application:
 1. Submit the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZtgT12MD1ln7zUDV22bb9T4JuCLPFEfkl7rL5ND8QzKvyiw/viewform" target="_blank">Medical Form</a>
 1. Send a Scan of your Insurance Card and send to the Design Team. [AsianCampDT@gmail.com](mailto:AsianCampDT@gmail.com)
 1. Print the <a href="https://drive.google.com/file/d/0B_GJLCz6DMvyWlZIZC0zcGNRNDg/view" target="_blank">Staff Rules and Guidelines Page</a> and have your Pastor Sign it. (Submit to the Design Team by the Regional Training #1)
-1. Have your Pastor fill out and submit a <a href="https://drive.google.com/file/d/1_pBNZrXw8IxOYQM10pfIcD9_o9bzryZ0/view?usp=sharing" target="_blank">Reference Questionnaire</a>. (Submit to the Design Team)
+1. Have your Pastor fill out and submit a <a href="/assets/docs/Asian Camp Counselor Reference Form 2019.pdf" target="_blank">Reference Questionnaire</a>. (Submit to the Design Team)
 1. Estimated registration fee for the week of camp is 75% of the camper registration fee (~\$375). Scholarship opportunities will be available and announced throughout the process.
 
 **Please direct ALL APPLICATIONS and QUESTIONS to the Asian Camp Design Team at: [AsianCampDT@gmail.com](mailto:AsianCampDT@gmail.com) with Counselor Registration in the Subject**
