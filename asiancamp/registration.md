@@ -4,80 +4,81 @@ title: "Registration"
 description: ""
 ---
 
-## Theme: Stay Woke
+## Theme: Purpose
 
-Life gets more and more difficult to navigate, as we are constantly on the move, with so much to accomplish in so little time. It is easy for us to lose sight of our relationship with God and our community. We may often find ourselves coasting through life seemingly on autopilot, not noticing that our faith has been placed in the backseat. God invites us to wake up to the faith that is all around us. This week we will learn what it means to “Stay Woke” through understanding ways in which we fall asleep and how the spirit invites us to live “woke” in all areas of our lives.
+<img src="/assets/img/asiancamp/Purpose Camper Reg Design.png">
 
 ## When & Where
-
-Sunday, July 22 – Saturday, July 28, 2018 Camp will be located at <strong>Camp Lodestar</strong>, in Wilseyville, California. All mail should be sent to the address below. Please reserve 3-5 days for delivery
+Sunday, July 21 – Saturday, July 27, 2019 Camp will be located at __Camp Lodestar__, in Wilseyville, California. All mail should be sent to the address below. Please reserve 3-5 days for delivery.
 
 <address>
-  <strong>Camp Lodestar c/o AASC</strong><br>
-  6135 Blue Mountain Road<br>
-  Wilseyville, CA 95257<br>
+  <strong>Camp Lodestar c/o AASC</strong><br />
+  6135 Blue Mountain Road<br />
+  Wilseyville, CA 95257<br />
 </address>
 
 ## Registration
-
-Registration fee for Asian American Summer Camp is <strong>$500</strong>, which includes meals, lodging, programming, camp T-shirt and a camp picture, but does not include a camp sweatshirt which can be purchased for an additional $30. Please send completed registration and medical release forms, along with a check to "<strong>NJAUMC</strong>" to:
+Registration fee for Asian American Summer Camp is $500, which includes meals, lodging, programming, camp T-shirt and a camp picture, but does not include a camp sweatshirt which can be purchased for an additional $30. Please send completed registration and medical release forms, along with a check to "__NJAUMC__" to:
 
 <address>
-<strong>Kirk Inouye</strong><br>
-1768 Aprilsong Ct<br>
-San Jose, CA 95131<br>
+  <strong>Jessica Tondo</strong><br />
+  2313 Pacific Avenue<br />
+  Manhattan Beach, CA 90266<br />
 </address>
 
-Registration forms must be completed, postmarked, and mailed by <strong>May 31, 2018</strong>. Thereafter, <strong>a late fee of $100</strong> will be applied. <strong>We will not be accepting any applications after July 15, 2018</strong>.  If you have any concerns regarding the late fee, please contact the Directors at [asiancampDT@gmail.com](mailto:asiancampDT@gmail.com). <strong>Any cancellations after July 15th are subject to a $100 penalty.</strong>
+Registration forms must be completed, postmarked, and mailed by __June 1, 2019__. Thereafter, __a late fee of $100__ will be applied. __We will not be accepting any applications after July 5, 2019__. If you have any concerns regarding the late fee, please contact the Directors at [asiancampDT@gmail.com](mailto:asiancampDT@gmail.com). __Any cancellations after July 15th are subject to a $100 penalty.__
 
 ## Transportation
 
-- <strong>Northern California</strong>: Rides will be coordinated by Viki Inouye. Please contact her at [viki@wesleysj.net](viki@wesleysj.net) or (408) 295-0367
-- <strong>Southern California</strong>: Rides will be coordinated by Darrell Mark. Please contact him at [darrell.faithumc@gmail.com](darrell.faithumc@gmail.com)
-- <strong>Pacific Northwest</strong>: Rides will be coordinated by Pamela Inouye. Please contact her at [pinouyeotr@aol.com](pinouyeotr@aol.com) or (310) 714-6313
-- <strong>Outside California</strong>: Please coordinate with a California based church for pickup and ground transportation
+- __Northern California__: Rides will be coordinated by Viki Inouye. Please contact her at [viki@wesleysj.net](mailto:viki@wesleysj.net) or (408) 295-0367
+- __Southern California__: Rides will be coordinated by Darrell Mark. Please contact him at [darrell.faithumc@gmail.com](mailto:darrell.faithumc@gmail.com)
+- __Pacific Northwest__: Rides will be coordinated by Lawrence Paltep. Please contact him at [lpaltep9431@gmail.com](mailto:lpaltep9431@gmail.com) or (206) 922-9431
+- __Outside California__: Please coordinate with a California based church for pickup and ground transportation
 
 Asian Camp strongly urges that, for their own safety, campers DO NOT DRIVE to the campsite. Furthermore, campers will not be allowed to leave the campsite before conclusion of Asian Camp without prior written consent, except in cases of emergency.
 
-## Scholarships
+## Discount/Financial Aid
+A $50 discount  will  be  given to  all FIRST-TIME campers  OR A  $50 discount  will  be  given to  multiple sibling  participants  of  the same  family  (one discount per camper; if  2 siblings  attend  AC, the cost  will by $50 off total price of  2 campers).
 
 Financial Aid from NJAUMC is available upon request, contact Pam Inouye Nakano 310-714-6313 or [pinouyeotr@aol.com](mailto:pinouyeotr@aol.com) for the application. Please allow adequate time for scholarship and registration processing.
 
 Mail in scholarship applications to:
 
 <address>
-<strong>Pam Inouye Nakano</strong><br>
-c/o Blaine Memorial United Methodist Church<br>
-3001 24th Avenue South <br>
-Seattle, WA 98144<br>
+  <strong>Pam Inouye Nakano</strong><br />
+  c/o Blaine Memorial United Methodist Church<br />
+  3001 24th Avenue South <br />
+  Seattle, WA 98144<br />
 </address>
 
-## What to bring
-
+## What to Bring
 Each camper should bring:
 
-- a flashlight
-- sleeping bag and pillow
-- toiletries and towel
-- swimsuit
-- warm jacket and/or a sweatshirt
-- casual clothing for warm/cool weather
-- athletic shoes
-- flip flops for the shower
+- sleeping bag
+- pillow
+- bath towel
+- toiletries
+- casual clothing (for warm/cool weather)
+- clothes for "messy day"
+- athletic shoes/closed toed shoes
+- flashlight
+- water bottle
 - and of course a BIBLE
-
 Other optional items:
 
-- cameras
+- fitted sheet for twin mattress
+- sunscreen
 - musical instruments
 - insect repellant
-- fitted twin sheet for mattress
+- swimsuit
+- athletic clothes (optional basketball tournament and ropes course)
+- notebook and pen
+- shower shoes
 
 Camp Lodestar’s facilities are either dorm style with attached bathrooms or with bathrooms in a separate building. Please limit the amount of food you bring to camp. Food is not allowed in cabins! Also, carefully consider any valuables you intend to bring to camp. Although we will do our best to recover any lost or stolen articles, Asian Camp cannot be held liable for any of them.
 
 ## Registration Checklist
-
-1. [Download the full Registration Form here.](https://drive.google.com/file/d/1fBAHbX_i0eLLMv4AwmMmgl1eQ-n7FmQO/view?usp=sharing)
+1. [Download the full Registration Form here.](/assets/docs/Camper Reg 2019.pdf)
 1. Fill out Personal Information page.
 1. Sign the Camp Guidelines and Non-Discrimination Policy page.
 1. Fill out the Medical Information page.
@@ -86,21 +87,21 @@ Camp Lodestar’s facilities are either dorm style with attached bathrooms or wi
 1. Attach a clear copy of your Insurance Card.
 1. Sign the Waiver form for use of the Camps High-Ropes Course.
 1. Mail your check to the address below.
+Checks Payable to NJAUMC (memo: Asian Camp 2019, “campers name”)
 
-Checks Payable to NJAUMC (memo: Asian Camp, "<i>campers name</i>")
+- $500 postmarked before June 1, 2019 ($450 for first-time campers, or multiple-sibling families)
+- Late fee after July 5 deadline: $600
+- If you would like to purchase a sweatshirt please also include an additional $30.
+- __We will not be accepting any applications after July 5, 2019__
+- __Any cancellations after July 5th are subject to a $100 penalty.__
 
-- \$500 postmarked before May 31, 2018
-- Late fee after May 31 deadline: \$600
-- If you would like to purchase a sweatshirt please also include an additional \$30.
-- <strong>We will not be accepting any applications after July 15, 2018</strong>
-- <strong>Any cancellations after July 15th are subject to a \$100 penalty.</strong>
-
-Please send completed registration and medical release forms, along with a check payable to <strong>NJAUMC</strong> to:
+Please send completed registration and medical release forms, along with a check payable to __NJAUMC__ to:
 
 <address>
-<strong>Kirk Inouye</strong><br>
-1768 Aprilsong Ct<br>
-San Jose, CA 95131<br>
+  <strong>Jessica Tondo</strong><br />
+  2313 Pacific Avenue<br />
+  Manhattan Beach, CA 90266<br />
 </address>
 
-Please contact Kirk Inouye with ALL applications, questions, and concerns at [asiancampDT@gmail.com](mailto:asiancampDT@gmail.com)
+Please contact Jessica Tondo with ALL applications, questions, and concerns at [asiancampDT@gmail.com](mailto:asiancampDT@gmail.com)
+
