@@ -9,7 +9,9 @@ description: ""
 <img src="/assets/img/asiancamp/Purpose Camper Reg Design.png">
 
 ## When & Where
-Sunday, July 21 – Saturday, July 27, 2019 Camp will be located at __Camp Lodestar__, in Wilseyville, California. All mail should be sent to the address below. Please reserve 3-5 days for delivery.
+Sunday, July 21 – Saturday, July 27, 2019
+
+Camp will be located at __Camp Lodestar__, in Wilseyville, California. All mail should be sent to the address below. Please reserve 3-5 days for delivery.
 
 <address>
   <strong>Camp Lodestar c/o AASC</strong><br />
@@ -18,7 +20,7 @@ Sunday, July 21 – Saturday, July 27, 2019 Camp will be located at __Camp Lodes
 </address>
 
 ## Registration
-Registration fee for Asian American Summer Camp is $500, which includes meals, lodging, programming, camp T-shirt and a camp picture, but does not include a camp sweatshirt which can be purchased for an additional $30. Please send completed registration and medical release forms, along with a check to "__NJAUMC__" to:
+Registration fee for Asian American Summer Camp is $500, which includes meals, lodging, programming, camp T-shirt and a camp picture, but does not include a camp sweatshirt which can be purchased for an additional $30. See below to determine Camper Registration discount eligibility. Please send completed registration and medical release forms, along with a check to "__NJAUMC__" to:
 
 <address>
   <strong>Jessica Tondo</strong><br />
@@ -26,7 +28,7 @@ Registration fee for Asian American Summer Camp is $500, which includes meals, l
   Manhattan Beach, CA 90266<br />
 </address>
 
-Registration forms must be completed, postmarked, and mailed by __June 1, 2019__. Thereafter, __a late fee of $100__ will be applied. __We will not be accepting any applications after July 5, 2019__. If you have any concerns regarding the late fee, please contact the Directors at [asiancampDT@gmail.com](mailto:asiancampDT@gmail.com). __Any cancellations after July 15th are subject to a $100 penalty.__
+Registration forms must be completed, postmarked, and mailed by __June 1, 2019__. Thereafter, __a late fee of $100__ will be applied. __We will not be accepting any applications after July 5, 2019__. If you have any concerns regarding the late fee, please contact the Directors at [asiancampDT@gmail.com](mailto:asiancampDT@gmail.com). __Any cancellations after July 5th are subject to a $100 penalty.__
 
 ## Transportation
 
@@ -38,7 +40,7 @@ Registration forms must be completed, postmarked, and mailed by __June 1, 2019__
 Asian Camp strongly urges that, for their own safety, campers DO NOT DRIVE to the campsite. Furthermore, campers will not be allowed to leave the campsite before conclusion of Asian Camp without prior written consent, except in cases of emergency.
 
 ## Discount/Financial Aid
-A $50 discount  will  be  given to  all FIRST-TIME campers  OR A  $50 discount  will  be  given to  multiple sibling  participants  of  the same  family  (one discount per camper; if  2 siblings  attend  AC, the cost  will by $50 off total price of  2 campers).
+A $50 discount will be given to all FIRST-TIME campers OR a $50 discount will be given to multiple sibling participants of the same family (one discount per camper; if 2 siblings attend AC, the cost will by $50 off total price of 2 campers).
 
 Financial Aid from NJAUMC is available upon request, contact Pam Inouye Nakano 310-714-6313 or [pinouyeotr@aol.com](mailto:pinouyeotr@aol.com) for the application. Please allow adequate time for scholarship and registration processing.
 
@@ -87,10 +89,10 @@ Camp Lodestar’s facilities are either dorm style with attached bathrooms or wi
 1. Attach a clear copy of your Insurance Card.
 1. Sign the Waiver form for use of the Camps High-Ropes Course.
 1. Mail your check to the address below.
-Checks Payable to NJAUMC (memo: Asian Camp 2019, “campers name”)
+Checks Payable to NJAUMC (memo: Asian Camp 2019, "campers name")
 
 - $500 postmarked before June 1, 2019 ($450 for first-time campers, or multiple-sibling families)
-- Late fee after July 5 deadline: $600
+- Late fee after June 1 deadline: $600
 - If you would like to purchase a sweatshirt please also include an additional $30.
 - __We will not be accepting any applications after July 5, 2019__
 - __Any cancellations after July 5th are subject to a $100 penalty.__
