@@ -48,9 +48,8 @@ Mail in scholarship applications to:
 
 <address>
   <strong>Pam Inouye Nakano</strong><br />
-  c/o Blaine Memorial United Methodist Church<br />
-  3001 24th Avenue South <br />
-  Seattle, WA 98144<br />
+  4669 159th Ave SE<br />
+  Bellevue WA 98006<br />
 </address>
 
 ## What to Bring
